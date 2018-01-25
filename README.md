@@ -1,5 +1,5 @@
 # XSS
-Information Security Project (for College) demonstrating the 3 types of Cross Site Scripting vulnerabilities (Stored, Reflected, DOM)
+Information Security Project (for College) demonstrating the 2 types of Cross Site Scripting vulnerabilities (Stored, Reflected)
 
 **Mentor**: Professor Jatin Sethi - jsethi@ddn.upes.ac.in
 
